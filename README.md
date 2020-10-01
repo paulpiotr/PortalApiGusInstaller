@@ -1,0 +1,2 @@
+# PortalApiGusInstaller
+Instalator projektu PortalApiGus
